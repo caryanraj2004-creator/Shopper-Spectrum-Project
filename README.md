@@ -37,4 +37,4 @@ Shopper Spectrum is a Machine Learning project that performs customer segmentati
 
 ## Author
 
-Kiran
+Chevella Aryan Raj
